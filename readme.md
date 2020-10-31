@@ -33,5 +33,5 @@ Select link below to view live Fall Themed Work Day Planner  Quiz <br>
 <p>
 <b>See below for screenshot of the planner<b>
 <br><br>
-<img src="Screenshot 2020-10-31 16.47.19.png" alt="Work Day Planner - Fall Theme">
+<img src="ScreenshotHW05.PNG" alt="Work Day Planner - Fall Theme">
 <br><hr>
