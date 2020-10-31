@@ -63,3 +63,24 @@ let interval = setInterval(function() {
     let init7 = JSON.parse(localStorage.getItem("07:00 pm"))
     sevenPm.val(init7);
   } 
+  function background () {
+      
+    $(".form-control").each(function () {
+        let timeTest = parseInt($(this).attr("id"));
+        hour = parseInt(hour);
+        console.log(timeTest);
+        console.log(hour);
+  
+        if (hour > timeTest) {
+            $(this).addClass("past");
+        } else if (hour < timeTest) {
+            $(this).addClass("future");
+        } else {
+            $(this).addClass("present");
+        }
+    });
+  }
+  
+  $(document).ready(function(){
+    initPage()
+    background()
