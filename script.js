@@ -63,6 +63,7 @@ let interval = setInterval(function() {
     let init7 = JSON.parse(localStorage.getItem("07:00 pm"))
     sevenPm.val(init7);
   } 
+//   Styling of timeblock based on past present and future 
   function background () {
       
     $(".form-control").each(function () {
