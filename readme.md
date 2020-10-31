@@ -28,10 +28,10 @@ A fall themed work day planner that shows current time and gives the ability not
 <h3>PREVIEW OF FINAL RESULT</h3>
 <p>
 
-Select link below to view live Fall Themed Work Day Planner  Quiz 
+Select link below to view live Fall Themed Work Day Planner  Quiz <br>
 <a href="https://lex4736.github.io/fallworkdayplanner/"> Click here to view webpage </a>
 <p>
 <b>See below for screenshot of the planner<b>
 <br><br>
-<img src="#" alt="Work Day Planner - Fall Theme">
+<img src="Screenshot 2020-10-31 16.47.19.png" alt="Work Day Planner - Fall Theme">
 <br><hr>
