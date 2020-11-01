@@ -1,7 +1,7 @@
 <h1> Fall Themed Work Day Planner</h1>
 <p></p>
 <h3>DESCRIPTION OF PROJECT</h3>
-A fall themed work day planner that shows current time and gives the ability notes for each time block. Also displays color coding time blocks for past, present and future. This planner not only gives you the ability to save your schedule in your local storage but also allows your to clear it to start a new day. 
+A fall themed work day planner that shows current time and gives the ability for user to input custom notes for each time block. Also displays color coding time blocks for past, present and future. This planner not only gives you the ability to save your schedule in your local storage but also allows your to clear it to start a new day. 
 
 <br><br>
 <h3>SUMMARY OF WORK COMPLETED</h3>
